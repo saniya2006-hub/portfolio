@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-color: lightgray;
+  }
+}
